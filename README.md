@@ -5,7 +5,7 @@ A privacy-focused note-taking app with **AES-256 encryption** built using React 
 ## 📌 Project Info
 - **Internship Project** — Elevate Labs
 - **Project #15** — Privacy-Focused Notes App with Encryption
-
+ 
 ## ✨ Features
 - 🔐 AES-256-GCM encryption using Browser Web Crypto API
 - 🔒 Password protected vault (lock/unlock)
